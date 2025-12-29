@@ -16,12 +16,12 @@ module HelloGay
 
     # prints `@greeting` to screen
     def greet
-      p @greeting
+      puts @greeting
     end
 
     # prints "`@greeting`, `someone : String`" to screen
     def greet_someone(someone : String)
-      p "#{@greeting}, #{someone}"
+      puts "#{@greeting}, #{someone}"
     end
 
     # sets `@greeting` to `new_greeting : String`
