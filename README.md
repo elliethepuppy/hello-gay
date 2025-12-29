@@ -36,4 +36,4 @@ develop with it however you like
 
 ## Contributors
 
-- [ellie](https://github.com/elliethepuppy) - creator and maintainer
+- [ellie](https://elliethepuppy.github.io) - creator and maintainer
