@@ -1,6 +1,6 @@
 # hello-gay
 
-TODO: Write a description here
+a little greeter that will say whatever you want! or, yknow..
 
 ## Installation
 
@@ -9,7 +9,7 @@ TODO: Write a description here
    ```yaml
    dependencies:
      hello-gay:
-       github: your-github-user/hello-gay
+       github: elliethepuppy/hello-gay
    ```
 
 2. Run `shards install`
@@ -20,15 +20,15 @@ TODO: Write a description here
 require "hello-gay"
 ```
 
-TODO: Write usage instructions here
+use it however you see fit
 
 ## Development
 
-TODO: Write development instructions here
+develop with it however you like
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/hello-gay/fork>)
+1. Fork it (<https://github.com/elliethepuppy/hello-gay/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -36,4 +36,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-name-here](https://github.com/your-github-user) - creator and maintainer
+- [ellie](https://github.com/elliethepuppy) - creator and maintainer
